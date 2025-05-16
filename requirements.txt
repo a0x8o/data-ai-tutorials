@@ -1,3 +1,6 @@
+# Utilities 
+pygwalker
+
 # Core scientific computing
 numpy
 scipy
