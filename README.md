@@ -42,7 +42,7 @@ Contributions are always welcome! Whether it's fixing bugs, improving documentat
 
 ## 📱 Connect with Me
 
-Follow me on Twitter for more tutorials and updates: [@akshay_pachaar](https://twitter.com/axbo10)
+Follow me on Twitter for more tutorials and updates: [@axbo10](https://twitter.com/axbo10)
 
 ## 📜 License
 
