@@ -5,7 +5,7 @@ Welcome to the **Machine Learning Tutorials Repository**! This is the go-to spot
 
 ## Star history 🌟
 
-[![Star History Chart](https://api.star-history.com/svg?repos=patchy631/machine-learning&type=Date)](https://star-history.com/#patchy631/machine-learning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=a0x8o/data-ai-tutorials&type=Date)](https://star-history.com/#a0x8o/data-ai-tutorials&Date)
 
 ## 📘 Topics Covered
 
@@ -23,11 +23,11 @@ Welcome to the **Machine Learning Tutorials Repository**! This is the go-to spot
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/patchy631/machine-learning
+    git clone https://github.com/a0x8o/data-ai-tutorials
     ```
 2. **Navigate to the Repository**:
     ```bash
-    cd machine-learning
+    cd data-ai-tutorials
     ```
 3. **Install Required Libraries**:
     ```bash
@@ -42,7 +42,7 @@ Contributions are always welcome! Whether it's fixing bugs, improving documentat
 
 ## 📱 Connect with Me
 
-Follow me on Twitter for more tutorials and updates: [@akshay_pachaar](https://twitter.com/akshay_pachaar)
+Follow me on Twitter for more tutorials and updates: [@axbo10](https://twitter.com/axbo10)
 
 ## 📜 License
 

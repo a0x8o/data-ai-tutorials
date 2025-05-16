@@ -11,12 +11,12 @@ First off, thank you for considering contributing to this repository! Your contr
 
 2. **Clone the Forked Repository**:
     ```bash
-    git clone https://github.com/patchy631/machine-learning
+    git clone https://github.com/a0x8o/data-ai-tutorials
     ```
 
 3. **Navigate to the Repository**:
     ```bash
-    cd machine-learning
+    cd data-ai-tutorials
     ```
 
 4. **Create a New Branch**:
@@ -55,6 +55,6 @@ First off, thank you for considering contributing to this repository! Your contr
 
 ## Need Help?
 
-If you have any questions or need help with the process, please feel free to contact me on Twitter: [@akshay_pachaar](https://twitter.com/akshay_pachaar).
+If you have any questions or need help with the process, please feel free to contact me on Twitter: [@axbo10](https://twitter.com/axbo10).
 
 Thank you for your contribution!
