@@ -27,7 +27,7 @@ Welcome to the **Machine Learning Tutorials Repository**! This is the go-to spot
     ```
 2. **Navigate to the Repository**:
     ```bash
-    cd machine-learning
+    cd data-ai-tutorials
     ```
 3. **Install Required Libraries**:
     ```bash
