@@ -1,0 +1,35 @@
+# Core scientific computing
+numpy
+scipy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Deep learning (optional, uncomment if needed)
+tensorflow
+torch
+torchvision
+torchaudio
+keras
+
+# LLMops
+langchain
+
+# Jupyter notebooks
+jupyter
+
+# Data wrangling and I/O
+openpyxl
+xlrd
+
+# Optional: data validation and utilities
+tqdm
+requests
+
+# Optional: notebook prettification
+ipython
