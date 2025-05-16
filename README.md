@@ -5,7 +5,7 @@ Welcome to the **Machine Learning Tutorials Repository**! This is the go-to spot
 
 ## Star history 🌟
 
-[![Star History Chart](https://api.star-history.com/svg?repos=patchy631/machine-learning&type=Date)](https://star-history.com/#patchy631/machine-learning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=a0x8o/data-ai-tutorials&type=Date)](https://star-history.com/#a0x8o/data-ai-tutorials&Date)
 
 ## 📘 Topics Covered
 
