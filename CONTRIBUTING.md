@@ -1,5 +1,5 @@
 
-# Contributing to Machine Learning Tutorials Repository
+# Contributing to Data & AI Tutorials Repository
 
 First off, thank you for considering contributing to this repository! Your contributions are what make the open-source community such an amazing place to be, learn, and grow.
 

@@ -1,7 +1,7 @@
 
-# 🤖 Machine Learning Tutorials Repository 🤖
+# 🤖 Data & AI Tutorials Repository 🤖
 
-Welcome to the **Machine Learning Tutorials Repository**! This is the go-to spot for all the code associated with my Twitter tutorials. If you're passionate about diving deep into the realms of Machine Learning and exploring various topics, you're in the right place!
+Welcome to the **Data & AI Tutorials Repository**! This is the go-to spot for all the code associated with my Twitter tutorials. If you're passionate about diving deep into the realms of Machine Learning and exploring various topics, you're in the right place!
 
 ## Star history 🌟
 
